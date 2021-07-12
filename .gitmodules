@@ -1,0 +1,6 @@
+[submodule "i-message-front-end"]
+	path = i-message-front-end
+	url = https://github.com/flashato9/i-message-front-end.git
+[submodule "i-message-back-end"]
+	path = i-message-back-end
+	url = https://github.com/flashato9/i-message-back-end.git
